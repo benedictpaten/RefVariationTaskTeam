@@ -12,7 +12,8 @@ The team will deliver:
   2. API Specification. A human-readable document introducing and defining the API, accompanied by a formal specification.
   3. Reference Implementation. Open source working code demonstrating the API, ideally which can underpin real world working implementations.
   
-  The schemas for the data-structures and API functions are contained in the [GA4GH Schemas Repository](https://github.com/ga4gh/schemas). This repository will be the home of the reference implementation of the API.
+
+The schemas for the data-structures and API functions are contained in the [GA4GH Schemas Repository](https://github.com/ga4gh/schemas). This repository will be the home of the reference implementation of the API.
 
 ## Build Status
 
